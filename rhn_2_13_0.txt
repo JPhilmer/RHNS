@@ -1129,7 +1129,7 @@ rule("####### <Welcome Instruction Message> #######")
 	}
 }
 
-disabled rule("─────────────────────────┤INTERFACE ├─────────────────────────────────")
+disabled rule("────────────────────────┤INTERFACE ├─────────────────────────────────")
 {
 	event
 	{

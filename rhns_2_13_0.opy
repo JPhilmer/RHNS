@@ -944,7 +944,7 @@ rule "####### <Welcome Instruction Message> #######":
 
 
 /*
-rule "────────────────────────────┤INTERFACE ├─────────────────────────────────":
+rule "───────────────────────────┤INTERFACE ├─────────────────────────────────":
 */
 
 rule "#Remove interface instruction":
